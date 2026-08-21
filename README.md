@@ -100,7 +100,7 @@ whois networkwalks.com
 
 ### 📸 Result
 
-![WHOIS Enumeration](task-1-week2-whois.png)
+![WHOIS Enumeration Result](task1-week2%20whois.png)
 
 ### 🧠 What I Learned
 
@@ -616,7 +616,7 @@ Most importantly, these exercises helped me connect **cybersecurity theory with 
 
 # 👨🏽‍💻 Author
 
-## Maxwell Anaaba
+## Maxwell Anaaba Apuswini
 
 **Computer Science & Engineering Student**
 **Cybersecurity & Cloud Computing Enthusiast**

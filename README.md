@@ -319,7 +319,7 @@ nmap -sn 10.149.61.0/24
 
 ### 📸 Scan Result
 
-![Zenmap Ping Scan Result](Zmap3.png)
+![Zenmap Network Topology](Zmap1.png)
 
 ### 📊 Result
 
@@ -349,7 +349,7 @@ The scan identified **3 live hosts**.
 
 ### 📸 Evidence
 
-![Zenmap Hosts](Zmap3.png)
+![Zenmap Network Topology](Zmap1.png)
 
 The Nmap output confirms that **256 IP addresses were scanned and 3 hosts were up**.
 
@@ -371,7 +371,7 @@ Identify the IP addresses of the hosts discovered during the Ping Scan.
 
 ### 📸 Evidence
 
-![Zenmap IP Addresses](Zmap3.png)
+![Zenmap Network Topology](Zmap1.png)
 
 These addresses were displayed in the Zenmap Hosts panel and Nmap output.
 
@@ -393,7 +393,7 @@ Identify the MAC addresses associated with the discovered hosts where available.
 
 ### 📸 Evidence
 
-![Zenmap MAC Address Results](Zmap3.png)
+![Zenmap Network Topology](Zmap1.png)
 
 ### 🧠 Observation
 
@@ -411,7 +411,8 @@ Use Zenmap's topology visualization to view the discovered network and document 
 
 ### 📸 Topology Result
 
-![Zenmap Network Topology](Zmap1.png)
+
+![Zenmap MAC Address Results](Zmap3.png)
 
 The Zenmap topology view displayed the network nodes identified during the scanning process.
 
